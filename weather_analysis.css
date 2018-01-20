@@ -1,0 +1,75 @@
+
+/* ------------------------global-------------------------------------- */
+
+body { background-image: url(http://static-33.sinclairstoryline.com/resources/media/8e641b49-0eaf-4979-b59a-0c8010dbd1c1-large16x9_STORMCLOUDSCREDITMGN.jpg);
+      color: yellow;
+      font-family: Courier New, Courier, monospace;
+      font-weight: 
+      background-repeat: no-repeat;
+      background-size: 100%;
+      background-position: center center; 
+
+      text-shadow: #1b1be7e1;
+      
+      font-weight: normal;
+
+      
+     
+      }
+
+
+
+/* --------------------------layout page ------------------------------------------------ */
+
+#main-panel-1 { border: 7px double burlywood;}
+
+.col-md-6 img { float: left; 
+    margin: 20px;}
+
+
+
+#main-panel-2 {  border: 7px double burlywood;
+                  margin-left: 20px;}
+
+
+ /* 4 images  */
+
+#image-4 { margin: 10px;
+            border: burlywood 3px solid";
+           }
+
+
+
+
+
+/* --------------------------  comparison page ------------------------------------------------ */
+
+
+#comparision-image { margin: 20px;
+                        height: 200px;
+                        width: 300px;
+                       }
+
+
+/* --------------------------  visuals page ------------------------------------------------ */
+
+.img-vis { 
+    margin: 20px;
+    padding-left: 30px;
+    
+    width: 70%;}
+
+.clear{
+    clear: left;
+}
+
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 40px;
+    background-color: #180707;
+    text-align: center;
+  }
